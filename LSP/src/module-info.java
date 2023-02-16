@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Malik
- *
- */
-module LSP {
-}
