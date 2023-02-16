@@ -38,6 +38,8 @@ public class Driver {
 		set2.add(67);
 		set2.add(86);
 		set2.add(33);
+		set2.add(33);
+		set2.remove(1500);
 		System.out.println("Set2 before intersection: " + set2.ToString());
 		set2.intersection(set1);
 		System.out.println("Set2 after intersection: " + set2.ToString());
