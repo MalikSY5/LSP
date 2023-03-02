@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"org.howard.edu.lsp.hw4"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"org.howard.edu.hw1"},{"l":"org.howard.edu.lsp.hw2"},{"l":"org.howard.edu.lsp.hw4"}];updateSearchResults();
